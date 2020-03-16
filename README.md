@@ -1,4 +1,4 @@
-# game-programming-rocker-landing
+# game-programming-rocket-landing
 Play on web browser at https://saraluk.itch.io/rocket-landing
 
 Title: Rocket Landing
